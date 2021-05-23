@@ -5,6 +5,7 @@
 export const environment = {
   production: false
 };
+APIKEY:'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'
 
 /*
  * For easier debugging in development mode, you can import the following file
