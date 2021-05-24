@@ -1,0 +1,13 @@
+.text{
+  font-weight: bold;
+  font-size: 3px;
+}
+.nav-links{
+  position: relative;
+}
+.nav-links li{
+  border-color: black;
+}
+.nav-links li:hover{
+  text-decoration: underline;
+}
